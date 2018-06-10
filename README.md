@@ -1,1 +1,1 @@
-# pascals-table-in-c-
+# pascals-table-in-c++
